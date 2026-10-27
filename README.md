@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <video src="https://v1.pinimg.com/videos/mc/720p/94/97/01/949701380c6597df51085cbff689d9cb.mp4" width="200" autoplay loop muted playsinline></video>
+  <video src="https://media1.tenor.com/m/8dgCp45y2RoAAAAd/pacifier-bat.gif" width="200"></video>
 </div>
 
 ###
