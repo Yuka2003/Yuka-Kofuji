@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="287" src="https://media1.tenor.com/m/drIYxSd6pdIAAAAC/yes-dog.gif"  />
+  <img height="287" src="https://www.flaticon.com/br/icone-animado-gratis/morcegos_12404091"  />
 </div>
 
 ###
