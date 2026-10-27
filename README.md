@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="287" src="https://www.flaticon.com/br/icone-animado-gratis/morcegos_12404091"  />
+  <img height="287" src="https://cdn-icons-gif.flaticon.com/12404/12404091.gif"  />
 </div>
 
 ###
